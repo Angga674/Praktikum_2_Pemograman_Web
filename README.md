@@ -85,7 +85,7 @@ dan CSS.</p>
 ```
 **Hasil :**
 
-![alt text](?raw=true)
+![](https://github.com/Angga674/Praktikum_2_Pemograman_Web/blob/main/Gambar/3.png?raw=true)
 
 # 4. Membuat CSS Eksternal 
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut. 
