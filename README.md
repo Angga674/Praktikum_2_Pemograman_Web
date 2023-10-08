@@ -114,7 +114,7 @@ Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagi
 ```
 **Hasil**
 
-![alt text](https://github.com/Angga674/Praktikum_2_Pemograman_Web/blob/main/Gambar/4.png?raw=true)
+![](https://github.com/Angga674/Praktikum_2_Pemograman_Web/blob/main/Gambar/4.png?raw=true)
 
 # 5. Menambahkan CSS Selector 
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file 
@@ -150,7 +150,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
 ** Hasil : **
 
-![alt text](?raw=true)
+![](https://github.com/Angga674/Praktikum_2_Pemograman_Web/blob/main/Gambar/5.png?raw=true)
 
 
 ## Pertanyaan dan Tugas
