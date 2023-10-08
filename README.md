@@ -49,7 +49,7 @@ dan CSS.</p>
 ```
 **Hasil :**
 
-![alt true](?raw=true)
+![](https://github.com/Angga674/Praktikum_2_Pemograman_Web/blob/main/Gambar/1.png?raw=true)
 
 ## 2. Mendeklarasikan CSS Internal 
 ```CSS
