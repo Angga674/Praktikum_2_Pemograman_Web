@@ -77,7 +77,7 @@ dan CSS.</p>
 
 **Hasil :**
 
-![alt text](?raw=true)
+![](https://github.com/Angga674/Praktikum_2_Pemograman_Web/blob/main/Gambar/2.png?raw=true)
 
 # 3. Menambahkan Inline CSS 
 ```HTML
